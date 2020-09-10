@@ -1,0 +1,12 @@
+img {border:black solid 5px;}
+.about {border: grey solid 20px;}
+.personal {border:green 20px;}
+.content {border: teal solid 20px;}
+.education {border:grey solid 20px;}
+.personal {border:teal solid 20px;}
+.philosophy {border:grey solid 20px;}
+
+#welcome {
+color:red
+font size: 65px
+}
